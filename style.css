@@ -107,7 +107,8 @@ p{
     padding-top: 25px;
 }
 h3{
-    font-size: 30px;
+    font-family: 'Be Vietnam Pro';
+    font-size: 25px;
     font-weight: bold;
     color: rgb(2, 2, 58);
 }
@@ -122,11 +123,12 @@ h3{
     color: rgb(238, 41, 41);
 }
 .footer p{
-    font-size: small;
-    font-weight:lighter;
+    font-size: 13px;
+    font-family: 'Raleway', sans-serif;
 }
 .fhead{
-    font-family: 'Be Vietnam Pro','Lobster', cursive;
+    font-family:'Lobster', cursive;
+    
 }
 
 
