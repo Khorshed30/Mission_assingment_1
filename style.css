@@ -7,17 +7,22 @@ p{
 }
 .container{
     display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-top: 45px;
 }
 .part1{
     width: 50%;
-    margin-left: 10%;
+    
     margin-top: 5%;
 }
 .part1 h1{
+    
     font-size: 55px;
     border-left: 5px solid;
-    border-image:linear-gradient(#dd111b, rgb(255, 72, 0));
+    border-image:linear-gradient(#eb2b35, rgb(209, 61, 3));
     border-image-slice: 1;
+    color: rgb(6, 6, 61);
 }
 .btn1{
     border: none;
@@ -33,17 +38,96 @@ p{
 
 .part1 img{
     width: 70%;
+    padding-left: 40px;
+    
 }
 .mission img{
     width: 30%;
 }
  
 .code_img img{
-    width: 60%;
+    width: 75%;
 }
 .project-img img{
-    width: 40%;
+    width: 70%;
+    margin-left: 30%;
 
 }
+#misso{
+    background-color: rgb(211, 253, 253);
+    
+}
+#vission{
+    background-color: rgb(221, 221, 221);
+
+}
+#goal{
+    background-color: rgb(247, 227, 201);
+}
+
+#m{
+    color: #f35f09;  
+}
+#my_mis{
+    font-family:  'Be Vietnam Pro',sans-serif,'Roboto';
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    color: rgb(4, 4, 82);
+    
+}
+.mission{
+    padding: 20px;
+    margin: 10px;
+    border-radius: 15px;
+}
+.scroll{
+    padding-top: 20px;
+}
+
+.develop h1{
+    font-family:'Be Vietnam Pro','Roboto',sans-serif;
+    font-size: 40px;
+    margin: 0;
+    
+}
+.develop{
+    padding-top: 35px;
+   
+}
+
+.global h1{
+    font-family:  sans-serif,'Roboto';
+    font-size: 40px;
+    margin: 0;
+    font-weight: bold;
+
+}
+.global{
+    padding-top: 25px;
+}
+h3{
+    font-size: 30px;
+    font-weight: bold;
+    color: rgb(2, 2, 58);
+}
+.footer{
+    text-align: center;
+    margin-top: 10%;
+    padding: 25px;
+    background-color: rgb(4, 4, 20);
+    color: white;
+}
+.ftm{
+    color: rgb(238, 41, 41);
+}
+.footer p{
+    font-size: small;
+    font-weight:lighter;
+}
+.fhead{
+    font-family: 'Be Vietnam Pro','Lobster', cursive;
+}
+
 
 
