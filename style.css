@@ -17,18 +17,15 @@ p{
 }
 .part1{
     width: 50%;
-    
     margin-top: 5%;
 }
 .part1 h1{
-    
     font-size: 55px;
     border-left: 5px solid;
     border-image:linear-gradient(#eb2b35, rgb(209, 61, 3));
     border-image-slice: 1;
     color: rgb(6, 6, 61);
     padding: 0  15px;
-    border-radius: 15px;
   
     
 }
@@ -40,15 +37,19 @@ p{
     color: white;
     font-weight:500;
     text-decoration: none;
-    font-family:'Roboto', sans-serif;;
+    font-family:'Roboto', sans-serif;
+    
 }
 .mis{
     color: chocolate;
 }
+a:hover{
+    background-color: rgb(212, 10, 10);
+}
 
 .part1 img{
-    width: 70%;
-    padding-left: 40px;
+    width: 80%;
+    padding-left: 20%;
     
 }
 .mission img{
@@ -57,10 +58,13 @@ p{
  
 .code_img img{
     width: 75%;
+    margin-top: 10%;
 }
 .project-img img{
     width: 70%;
-    margin-left: 30%;
+    margin-left: 115px;
+    padding-top: 10%;
+    padding-right: -45px;
 
 }
 #misso{
@@ -84,6 +88,7 @@ p{
     font-size: 40px;
     font-weight: bold;
     color: rgb(4, 4, 82);
+    margin-top: 3%;
     
 }
 .mission{
@@ -102,7 +107,8 @@ p{
     
 }
 .develop{
-    padding-top: 35px;
+    padding-top: 10%;
+    margin-left: -60px;
    
 }
 
@@ -114,7 +120,8 @@ p{
 
 }
 .global{
-    padding-top: 25px;
+    padding-top: 10%;
+    
 }
 h3{
     font-family: 'Be Vietnam Pro';
