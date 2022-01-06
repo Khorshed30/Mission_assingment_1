@@ -19,6 +19,7 @@ p{
     width: 50%;
     margin-top: 5%;
 }
+
 .part1 h1{
     font-size: 55px;
     border-left: 5px solid;
@@ -44,7 +45,7 @@ p{
     color: chocolate;
 }
 a:hover{
-    background-color: rgb(212, 10, 10);
+    background-color: rgb(240, 62, 8);
 }
 
 .part1 img{
@@ -57,11 +58,11 @@ a:hover{
 }
  
 .code_img img{
-    width: 75%;
+    width: 110%;
     margin-top: 10%;
 }
 .project-img img{
-    width: 70%;
+    width: 90%;
     margin-left: 115px;
     padding-top: 10%;
     padding-right: -45px;
@@ -107,8 +108,10 @@ a:hover{
     
 }
 .develop{
-    padding-top: 10%;
-    margin-left: -60px;
+    margin-top: 5%;
+    padding-left: 70px;
+    padding-bottom: 5%;
+ 
    
 }
 
@@ -120,7 +123,7 @@ a:hover{
 
 }
 .global{
-    padding-top: 10%;
+    padding-top: 7%;
     
 }
 h3{
@@ -135,6 +138,26 @@ h3{
     padding: 20px;
     background-color: rgb(4, 4, 20);
     color: white;
+}
+.site_img img{
+    border-radius: 10px;
+}
+.site2_img img{
+    border-radius: 10px;
+    width: 90%;
+    padding-top: 150px;
+
+}
+.site-dev{
+    margin-left: 5%;
+    
+}
+.site-dev h2{
+    font-size: 35px;
+    margin-right: 50%;
+}
+site-dev p{
+    margin-right: 50%;
 }
 .ftm{
     color: rgb(238, 41, 41);
