@@ -150,6 +150,7 @@ h3{
 }
 .site-dev{
     margin-left: 5%;
+    display: inline-block;
     
 }
 .site-dev h2{
@@ -158,6 +159,14 @@ h3{
 }
 site-dev p{
     margin-right: 50%;
+    
+}
+.p-last{
+    padding-left: 45%;
+    font-size: 12px;
+    padding-bottom: 25%;
+    color: rgb(133, 46, 5);
+    
 }
 .ftm{
     color: rgb(238, 41, 41);
